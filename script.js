@@ -1,1 +1,1 @@
-alert('Are you sure you want to visit this site??');
+alert('Hi, Big One.... your little one says Hello!');
